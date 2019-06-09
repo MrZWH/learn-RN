@@ -1,0 +1,11 @@
+{
+	"script": {
+		"start": "node node_modules/react-native/local-cli/cli.js",
+		"test": "jest"
+	},
+	"dependencies": {
+		"react": "16.6.0-alpha.8af6728",
+		"react-native": "0.57.4",
+		"react-navigation": "^2.18.2"
+	}
+}
